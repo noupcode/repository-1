@@ -1,1 +1,3 @@
 rjir
+
+print ("Hello world")
